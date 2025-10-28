@@ -81,8 +81,8 @@ input, textarea {
 button {
   padding: 10px 25px;
   border: none;
-  background-color: #160e11;
-  color: white;
+  background-color: #e9e1e4;
+  color: rgb(15, 15, 15);
   font-weight: bold;
   border-radius: 8px;
   cursor: pointer;

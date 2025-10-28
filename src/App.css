@@ -75,13 +75,13 @@ input, textarea {
   padding: 10px;
   margin-bottom: 10px;
   border-radius: 8px;
-  border: 1px solid #aaa;
+  border: 1px solid #c8c7f7;
 }
 
 button {
   padding: 10px 25px;
   border: none;
-  background-color: #0078d4;
+  background-color: #f8c5d8;
   color: white;
   font-weight: bold;
   border-radius: 8px;
@@ -89,5 +89,5 @@ button {
 }
 
 button:hover {
-  background-color: #005ea6;
+  background-color: #f3bfdd;
 }
